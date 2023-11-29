@@ -1,5 +1,5 @@
 # data-management-IKTdZ-workshop
-This repository offers guides, exercises, and best practices essential for data management.
+Welcome to our workshop repository! This repository contains the resources and exercise samples for our workshop on research data management.
 
 ## Exercise 1: 
 1. Either review a peer DMP
@@ -19,3 +19,4 @@ This repository offers guides, exercises, and best practices essential for data 
         - Choose “Open With” from the menu, and select “Terminal.”
     - for Linux: first navigate to the installation folder, then run `cd openrefine-3.4.1
   ./refine`
+4. Go to [exercises folder](exercises) for a sample dataset to clean *or* use your own data
