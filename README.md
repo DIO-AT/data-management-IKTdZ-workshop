@@ -2,7 +2,8 @@
 This repository offers guides, exercises, and best practices essential for data management.
 
 ## Exercise 1: 
-1. Got to [exercises folder](exercises)
+1. Either review a peer DMP
+2. or go to [exercises folder](exercises) for a sample DMP
 
 ## Exercise 2: Data Cleaning with OpenRefine 
 
