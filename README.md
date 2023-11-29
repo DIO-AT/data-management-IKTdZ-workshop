@@ -13,5 +13,5 @@ This repository offers guides, exercises, and best practices essential for data 
         - This should open a new Finder menu: navigate into the “MacOS” folder
         - Control-click on “JavaAppLauncher”
         - Choose “Open With” from the menu, and select “Terminal.”
-    - for Linux: first navigate to the installation folder, then run cd openrefine-3.4.1
+    - for Linux: first navigate to the installation folder, then run `cd openrefine-3.4.1`
   ./refine
